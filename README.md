@@ -1,5 +1,5 @@
 # python.project
-name of project - Student Result Analysis Project
+Name of Project - Student Result Analysis Project
 
 
 * developed a comprehensive student result analysis system using python to efficiently analyze and visualize student performance data.
